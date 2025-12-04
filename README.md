@@ -132,7 +132,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## 📞 Contact Us
 
-[![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-Bipin Kalkhuriya-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/vipin-kalkhuria-84223b312)
+(https://www.linkedin.com/in/vipin-kalkhuria-84223b312)
 
 ## Project Page Screenshoots
 
