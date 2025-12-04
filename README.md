@@ -55,7 +55,7 @@ We need to install or make sure that these tools are pre-installed on your machi
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/hrishabh6/devOverflow.git
+   git clone https://github.com/Bipin0211/Dev-Overflow--A-modern-developer-Q-A-platform.git
    cd devOverflow
    ```
 
@@ -82,7 +82,7 @@ We need to install or make sure that these tools are pre-installed on your machi
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hrishabh6/devOverflow.git
+git clone https://github.com/Bipin0211/Dev-Overflow--A-modern-developer-Q-A-platform.git
 ```
 
 2. Install packages
@@ -132,7 +132,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## 📞 Contact Us
 
-[![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-HrishabhJoshi-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/hrishabh-joshi-61399a298)
+[![Follow us on LinkedIn](https://img.shields.io/badge/LinkedIn-Bipin Kalkhuriya-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/vipin-kalkhuria-84223b312)
 
 ## Project Page Screenshoots
 
